@@ -1,0 +1,58 @@
+Timestamp,Year,Branch,CGPA,Core Skills [Communication],Core Skills [Aptitude],Core Skills [Problem Solving],Core Skills [Teamwork],Core Skills [Adaptability],Technical & Data Skills [Programming (Python/Java)],Technical & Data Skills [DSA],Technical & Data Skills [Web Development],Technical & Data Skills [SQL / Databases],Technical & Data Skills [Machine Learning],Technical & Data Skills [Data Analysis],Technical & Data Skills [Cloud / DevOps],Technical & Data Skills [Cybersecurity],Creative & Marketing Skills [Digital Marketing],Creative & Marketing Skills [SEO],Creative & Marketing Skills [Content Writing],Creative & Marketing Skills [Social Media],Creative & Marketing Skills [UI/UX Design],Creative & Marketing Skills [Graphic Design],Creative & Marketing Skills [Video Editing],Creative & Marketing Skills [Creativity],  Projects Completed  ,Internship Experience ,  Certifications / Courses  ,  Interested Domain  ,Placement Readiness ,  Rate your readiness  
+4/6/2026 20:41:45,2nd,AIML,9+,3,1,3,4,4,4,4,3,3,1,1,1,3,3,2,3,3,3,4,3,4,1-2,NO,YES,Data & AI,Not Ready,2
+4/6/2026 20:49:33,2nd,AIML,8-9,4,3,3,4,4,5,4,3,3,1,3,1,2,1,1,1,2,3,2,3,5,1-2,NO,YES,Data & AI,Not Ready,3
+4/6/2026 20:53:14,2nd,Aiml ,8-9,3,3,3,3,3,4,3,0,2,0,0,0,2,0,0,0,0,0,0,0,2,1-2,NO,YES,Data & AI,Ready,3
+4/6/2026 20:56:27,2nd,AIML,9+,3,4,4,5,4,5,5,4,4,2,4,0,2,0,0,2,5,4,3,2,5,1-2,NO,YES,IT / Software,Not Ready,2
+4/7/2026 9:10:22,2nd,Ise,9+,5,4,3,4,3,4,3,3,2,0,0,0,0,1,0,0,1,0,0,0,0,0,NO,YES,IT / Software,Ready,4
+4/7/2026 9:11:04,2nd,ECE,8-9,2,4,5,3,4,4,1,2,0,0,0,0,0,1,2,0,0,1,0,0,0,1-2,NO,YES,IT / Software,Not Ready,3
+4/7/2026 9:12:10,2nd,ECE,7-8,5,4,5,2,4,4,1,3,0,5,5,4,4,5,5,4,4,0,0,0,0,5+,YES,YES,IT / Software,Ready,4
+4/7/2026 9:14:16,2nd,Aiml,7-8,4,3,3,5,4,2,2,1,2,1,0,3,0,2,1,1,2,0,0,0,0,0,NO,YES,Data & AI,Not Ready,2
+4/7/2026 9:14:18,3rd,ECE,8-9,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5+,YES,YES,Design,Ready,5
+4/7/2026 9:14:29,3rd,ISE,8-9,1,1,1,1,1,3,3,4,4,3,3,2,2,1,1,1,2,2,2,2,3,3-5,NO,YES,IT / Software,Not Ready,3
+4/7/2026 9:14:32,3rd,AIML,6-7,1,1,0,1,1,2,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1-2,NO,NO,IT / Software,Not Ready,2
+4/7/2026 9:15:20,3rd,mechanical ,Below 6,1,1,1,1,1,1,0,0,0,0,0,0,0,3,2,3,3,3,3,3,3,1-2,NO,YES,Design,Not Ready,3
+4/7/2026 9:17:13,3rd,ISE,8-9,4,2,2,5,4,3,2,2,1,1,0,0,0,5,2,1,3,1,0,1,2,1-2,YES,YES,IT / Software,Not Ready,2
+4/7/2026 9:17:16,1st,AIML,7-8,3,3,2,4,2,3,0,0,0,0,0,0,0,1,4,2,4,2,2,4,4,0,NO,NO,Design,Not Ready,1
+4/7/2026 9:17:25,4th,ECE,8-9,3,5,5,1,3,4,4,0,1,0,0,0,0,0,0,0,0,2,0,0,2,1-2,YES,NO,Data & AI,Ready,4
+4/7/2026 9:17:59,3rd,CSE ,8-9,2,2,2,2,2,2,2,3,3,2,2,3,2,2,3,2,3,5,4,4,5,1-2,NO,YES,IT / Software,Ready,4
+4/7/2026 9:19:00,2nd,Cse,9+,3,5,5,5,5,4,4,2,0,0,0,0,0,3,3,3,3,3,3,3,3,0,NO,NO,IT / Software,Not Ready,3
+4/7/2026 9:20:13,2nd,ISE,9+,1,2,2,2,2,1,2,1,1,0,0,0,1,0,0,0,0,1,0,0,2,1-2,NO,YES,IT / Software,Not Ready,3
+4/7/2026 9:20:30,3rd,ISE,8-9,5,4,4,5,5,5,4,5,5,4,5,3,3,4,4,4,4,5,4,4,4,3-5,YES,YES,IT / Software,Ready,5
+4/7/2026 9:21:17,3rd,EEE,8-9,1,0,0,1,1,0,0,0,0,1,1,0,2,0,0,1,1,0,1,1,3,3-5,NO,YES,Design,Not Ready,2
+4/7/2026 9:22:42,2nd,CSE,9+,1,2,2,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NO,NO,IT / Software,Not Ready,3
+4/7/2026 9:25:31,2nd,CSE,8-9,4,3,4,5,4,4,3,5,4,4,4,2,3,3,2,3,3,4,4,4,4,3-5,NO,YES,IT / Software,Not Ready,4
+4/7/2026 9:27:25,1st,EEE,Below 6,0,1,2,2,1,0,0,0,0,0,1,1,0,1,0,1,2,1,1,2,2,1-2,NO,NO,Data & AI,Not Ready,3
+4/7/2026 9:32:03,3rd,IS,6-7,0,1,1,1,1,1,0,0,1,1,1,0,0,2,1,1,1,0,0,0,1,1-2,NO,NO,IT / Software,Not Ready,1
+4/7/2026 9:32:49,4th,Civil,7-8,2,1,2,2,2,3,1,2,0,0,2,0,1,1,0,1,1,0,0,2,1,3-5,YES,YES,Design,Ready,4
+4/7/2026 9:33:03,1st,AIML,8-9,3,4,5,5,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,NO,NO,IT / Software,Ready,4
+4/7/2026 9:33:11,2nd,Information Science and Engineering ,8-9,1,1,1,2,2,4,3,4,3,0,0,1,0,2,1,0,1,1,0,0,2,1-2,NO,YES,IT / Software,Ready,4
+4/7/2026 9:36:53,1st,CS-AIML,8-9,4,3,4,3,4,3,1,0,0,0,0,0,1,2,0,2,0,0,1,2,2,0,NO,NO,Data & AI,Not Ready,2
+4/7/2026 9:37:39,2nd,ISE,9+,5,5,4,5,5,4,4,2,3,1,1,1,1,5,4,5,5,4,3,2,2,1-2,NO,YES,IT / Software,Not Ready,3
+4/7/2026 9:42:24,4th,CSE,8-9,4,4,4,5,5,4,1,3,5,4,5,2,2,3,3,3,3,3,3,3,5,5+,YES,YES,Data & AI,Ready,4
+4/7/2026 9:44:18,3rd,Mechanical ,7-8,2,2,1,2,2,4,0,0,0,0,0,0,3,3,1,3,3,1,3,4,4,1-2,YES,YES,IT / Software,Ready,1
+4/7/2026 9:50:13,2nd,Mechanical ,7-8,4,4,4,5,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,3,2,1-2,NO,YES,Design,Not Ready,3
+4/7/2026 9:57:12,2nd,Mechanical Engineering ,8-9,2,1,1,2,2,1,0,1,1,0,0,0,0,0,0,2,2,0,0,0,3,0,NO,NO,Design,Not Ready,2
+4/7/2026 10:01:55,3rd,Electrical and electronics ,8-9,5,4,5,5,5,4,4,2,2,4,4,4,4,4,4,4,4,4,4,4,5,5+,NO,YES,Design,Ready,1
+4/7/2026 10:05:57,1st,CSE ,8-9,2,4,5,4,4,2,0,0,0,0,0,0,0,2,4,3,3,2,2,3,3,0,NO,NO,Data & AI,Not Ready,5
+4/7/2026 10:07:03,3rd,Civil,Below 6,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1-2,YES,YES,Design,Not Ready,3
+4/7/2026 10:09:19,2nd,ISE,6-7,1,1,1,1,2,1,1,1,1,0,0,0,1,0,0,2,1,0,0,2,1,1-2,NO,YES,IT / Software,Not Ready,1
+4/7/2026 10:10:46,3rd,Mech,7-8,1,2,2,2,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,3,3,1-2,YES,YES,Design,Not Ready,3
+4/7/2026 10:18:32,3rd,ISE ,8-9,3,4,4,3,5,3,3,4,4,2,3,3,3,2,3,2,2,4,2,2,3,5+,NO,YES,IT / Software,Not Ready,3
+4/7/2026 10:21:38,1st,CSE,9+,2,2,2,2,2,2,1,1,1,2,1,0,0,4,4,4,3,5,5,5,5,3-5,NO,YES,Data & AI,Not Ready,1
+4/7/2026 10:25:22,2nd,Information science and engineering ,6-7,0,0,1,1,1,4,3,5,5,2,3,4,2,2,1,1,2,4,4,3,5,3-5,YES,YES,IT / Software,Ready,3
+4/7/2026 11:05:54,3rd,CSE AIML,9+,3,4,4,4,5,4,3,1,2,0,2,0,2,0,0,1,1,1,1,0,0,1-2,NO,YES,Data & AI,Not Ready,2
+4/7/2026 11:13:26,2nd,CSE(AIML),8-9,4,3,3,4,5,3,3,3,2,0,0,0,1,0,0,0,1,2,1,0,0,1-2,NO,YES,Data & AI,Not Ready,2
+4/7/2026 11:14:27,2nd,AIML,8-9,3,3,3,3,3,3,3,3,3,3,3,3,3,5,5,5,5,5,5,5,5,5+,YES,YES,Data & AI,Ready,5
+4/7/2026 11:59:24,3rd,ISE,6-7,4,5,3,3,4,5,5,3,3,3,4,2,3,3,3,2,2,2,3,5,5,1-2,NO,YES,Data & AI,Not Ready,3
+4/7/2026 12:05:52,2nd,Aiml,9+,3,3,3,5,5,4,3,2,3,2,2,1,1,4,4,3,4,3,3,5,4,1-2,NO,NO,Data & AI,Not Ready,3
+4/7/2026 12:09:22,2nd,AIML,7-8,3,3,3,4,5,3,3,3,3,2,2,2,2,3,1,5,3,2,2,2,5,1-2,NO,YES,Design,Not Ready,5
+4/7/2026 12:27:39,2nd,AIML,9+,2,1,2,2,2,5,5,5,5,4,4,3,3,4,4,5,5,5,5,4,4,1-2,NO,YES,Data & AI,Not Ready,3
+4/7/2026 12:40:49,2nd,ISE,8-9,4,5,4,4,5,0,1,2,1,0,0,0,0,0,0,1,2,1,0,0,1,1-2,YES,YES,IT / Software,Not Ready,2
+4/7/2026 12:43:22,1st,CSE,8-9,1,0,1,1,2,1,1,1,0,0,0,0,0,1,0,1,1,0,0,1,3,0,NO,NO,Data & AI,Not Ready,2
+4/7/2026 13:03:59,2nd,ISE,8-9,2,2,2,2,2,4,4,4,3,2,4,4,4,3,3,3,3,3,3,3,3,1-2,NO,YES,IT / Software,Ready,4
+4/7/2026 14:49:07,4th,Computer Science ,9+,1,1,1,1,1,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1-2,NO,NO,IT / Software,Ready,3
+4/7/2026 14:55:51,2nd,CSE(AI & ML),7-8,1,1,2,2,2,3,3,2,4,4,4,3,4,2,2,2,3,1,2,2,2,1-2,NO,NO,IT / Software,Not Ready,2
+4/7/2026 15:00:06,4th,ISE,9+,5,3,4,5,5,4,4,4,4,3,2,1,1,5,5,4,5,5,2,3,5,5+,YES,YES,IT / Software,Ready,4
+4/7/2026 15:04:49,3rd,Information Science and Engineering,8-9,4,4,4,4,4,4,4,4,4,4,4,2,2,4,2,2,3,5,5,3,5,3-5,NO,YES,Design,Ready,4
+4/7/2026 15:19:48,2nd,Aiml,8-9,3,1,1,3,3,4,3,1,2,1,1,1,1,2,3,4,4,1,1,4,4,1-2,NO,YES,IT / Software,Not Ready,2
+4/7/2026 15:23:26,1st,EEE,7-8,5,3,3,3,5,1,0,0,0,0,0,0,0,1,0,5,1,0,0,1,5,0,NO,NO,IT / Software,Not Ready,5
